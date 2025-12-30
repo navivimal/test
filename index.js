@@ -1,0 +1,2 @@
+location();
+alert(loc);
